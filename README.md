@@ -3,7 +3,7 @@ Python To-DO app with database
 What's working ?
 - Create Tasks
 - List tasks
-- Delete Tasks
+- Delete Tasks  
 What's coming ?
 - Edit tasks
 - Change tasks order
